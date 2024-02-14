@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning MIPS ISA
+- 💬 Ask me about Tarut
 
 <!--
 **AIAlmatar/AIAlmatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
